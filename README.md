@@ -8,6 +8,9 @@
 + Issuing [rippled API](https://ripple.com/wiki/JSON_Messages) requests
 + Listening to events on the Ripple network (transaction, ledger, etc.)
 + Signing and submitting transactions to the Ripple network
++ 
+#Support
+[![tip for next commit](https://tip4commit.com/projects/950.svg)](https://tip4commit.com/github/Ignat99/noolite-micropay)
 
 ###In this file:
 
